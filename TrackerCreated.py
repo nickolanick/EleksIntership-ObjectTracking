@@ -57,6 +57,9 @@ else:
 fps = None
 
 # loop over frames from the video stream
+
+
+
 while True:
     # grab the current frame, then handle if we are using a
     # VideoStream or VideoCapture object
